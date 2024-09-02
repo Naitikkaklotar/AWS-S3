@@ -1,0 +1,4 @@
+com\demo\Application.class
+com\services\StorageService.class
+com\controller\StorageController.class
+com\demo\StorageConfig.class
